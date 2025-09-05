@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\EXER_07 Simple Inheritance with Constructor\EXER07 Simple Inheritance\EXER07 Simple Inheritance\bin\Debug\EXER07 Simple Inheritance.exe.config
+C:\Users\ACT-STUDENT\Desktop\EXER_07 Simple Inheritance with Constructor\EXER07 Simple Inheritance\EXER07 Simple Inheritance\bin\Debug\EXER07 Simple Inheritance.exe
+C:\Users\ACT-STUDENT\Desktop\EXER_07 Simple Inheritance with Constructor\EXER07 Simple Inheritance\EXER07 Simple Inheritance\bin\Debug\EXER07 Simple Inheritance.pdb
+C:\Users\ACT-STUDENT\Desktop\EXER_07 Simple Inheritance with Constructor\EXER07 Simple Inheritance\EXER07 Simple Inheritance\obj\Debug\EXER07 Simple Inheritance.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\EXER_07 Simple Inheritance with Constructor\EXER07 Simple Inheritance\EXER07 Simple Inheritance\obj\Debug\EXER07 Simple Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\EXER_07 Simple Inheritance with Constructor\EXER07 Simple Inheritance\EXER07 Simple Inheritance\obj\Debug\EXER07 Simple Inheritance.exe
+C:\Users\ACT-STUDENT\Desktop\EXER_07 Simple Inheritance with Constructor\EXER07 Simple Inheritance\EXER07 Simple Inheritance\obj\Debug\EXER07 Simple Inheritance.pdb
